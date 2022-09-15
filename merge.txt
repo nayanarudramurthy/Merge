@@ -1,5 +1,9 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 changing in main branch 
 =======
 sub1 branch is created
 >>>>>>> sub1
+=======
+branch sub2 is created
+>>>>>>> sub2
